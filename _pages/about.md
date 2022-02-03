@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+HamidReza Attar is studying Computer Science at Urmia University, Iran. He is now working as a Data Scientist in [DataColab](https://datacolab.co.uk/). He knows python language at an advanced level and he is interested in Machine Learning and Deep Learning.
 
+Contact me for collaboration in any **Data Science, NLP, Deep Learning** projects.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+email: hamidattar5@gmail.com
